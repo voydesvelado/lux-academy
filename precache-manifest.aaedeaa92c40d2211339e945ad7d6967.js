@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2f222d4d42e11c273c1e4bd3321479bf",
+    "revision": "212c1f80255da058c6af3a5b919be3ea",
     "url": "/lux-academy/index.html"
   },
   {
-    "revision": "60f3a1560041e687e585",
+    "revision": "b32f248f124789ec7719",
     "url": "/lux-academy/static/css/main.1a7a4410.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lux-academy/static/js/2.cf50dbf2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "60f3a1560041e687e585",
-    "url": "/lux-academy/static/js/main.2f85646c.chunk.js"
+    "revision": "b32f248f124789ec7719",
+    "url": "/lux-academy/static/js/main.3bf8bac6.chunk.js"
   },
   {
     "revision": "a796803cfad9c1f2b138",
