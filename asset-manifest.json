@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lux-academy/static/css/main.1a7a4410.chunk.css",
+    "main.js": "/lux-academy/static/js/main.31c3444a.chunk.js",
+    "main.js.map": "/lux-academy/static/js/main.31c3444a.chunk.js.map",
+    "runtime-main.js": "/lux-academy/static/js/runtime-main.f2fdcb4f.js",
+    "runtime-main.js.map": "/lux-academy/static/js/runtime-main.f2fdcb4f.js.map",
+    "static/js/2.cf50dbf2.chunk.js": "/lux-academy/static/js/2.cf50dbf2.chunk.js",
+    "static/js/2.cf50dbf2.chunk.js.map": "/lux-academy/static/js/2.cf50dbf2.chunk.js.map",
+    "index.html": "/lux-academy/index.html",
+    "precache-manifest.80e62a49ea60f24127f8660416b315d4.js": "/lux-academy/precache-manifest.80e62a49ea60f24127f8660416b315d4.js",
+    "service-worker.js": "/lux-academy/service-worker.js",
+    "static/css/main.1a7a4410.chunk.css.map": "/lux-academy/static/css/main.1a7a4410.chunk.css.map",
+    "static/js/2.cf50dbf2.chunk.js.LICENSE.txt": "/lux-academy/static/js/2.cf50dbf2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2fdcb4f.js",
+    "static/js/2.cf50dbf2.chunk.js",
+    "static/css/main.1a7a4410.chunk.css",
+    "static/js/main.31c3444a.chunk.js"
+  ]
+}
