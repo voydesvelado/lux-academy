@@ -14,6 +14,7 @@ function App() {
         <Route path="/" exact component={Inicio} />
         <Route path="/galeria" exact component={Galeria} />
       </Switch>
+      <Inicio />
     </Router>
   );
 }
