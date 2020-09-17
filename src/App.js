@@ -11,7 +11,7 @@ function App() {
     <Router>
       <Nav />
       <Switch>
-        <Route path="/" exact={true} component={Inicio} />
+        <Route path="/lux-academy" exact={true} component={Inicio} />
         <Route path="/galeria" component={Galeria} />
       </Switch>
     </Router>
