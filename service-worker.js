@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lux-academy/precache-manifest.aaedeaa92c40d2211339e945ad7d6967.js"
+  "/lux-academy/precache-manifest.e62738b6b89971539b3bcc6d608836ff.js"
 );
 
 self.addEventListener('message', (event) => {

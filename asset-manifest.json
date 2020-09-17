@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lux-academy/static/css/main.1a7a4410.chunk.css",
-    "main.js": "/lux-academy/static/js/main.3bf8bac6.chunk.js",
-    "main.js.map": "/lux-academy/static/js/main.3bf8bac6.chunk.js.map",
+    "main.js": "/lux-academy/static/js/main.96584d2a.chunk.js",
+    "main.js.map": "/lux-academy/static/js/main.96584d2a.chunk.js.map",
     "runtime-main.js": "/lux-academy/static/js/runtime-main.f2fdcb4f.js",
     "runtime-main.js.map": "/lux-academy/static/js/runtime-main.f2fdcb4f.js.map",
     "static/js/2.cf50dbf2.chunk.js": "/lux-academy/static/js/2.cf50dbf2.chunk.js",
     "static/js/2.cf50dbf2.chunk.js.map": "/lux-academy/static/js/2.cf50dbf2.chunk.js.map",
     "index.html": "/lux-academy/index.html",
-    "precache-manifest.aaedeaa92c40d2211339e945ad7d6967.js": "/lux-academy/precache-manifest.aaedeaa92c40d2211339e945ad7d6967.js",
+    "precache-manifest.e62738b6b89971539b3bcc6d608836ff.js": "/lux-academy/precache-manifest.e62738b6b89971539b3bcc6d608836ff.js",
     "service-worker.js": "/lux-academy/service-worker.js",
     "static/css/main.1a7a4410.chunk.css.map": "/lux-academy/static/css/main.1a7a4410.chunk.css.map",
     "static/js/2.cf50dbf2.chunk.js.LICENSE.txt": "/lux-academy/static/js/2.cf50dbf2.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f2fdcb4f.js",
     "static/js/2.cf50dbf2.chunk.js",
     "static/css/main.1a7a4410.chunk.css",
-    "static/js/main.3bf8bac6.chunk.js"
+    "static/js/main.96584d2a.chunk.js"
   ]
 }
