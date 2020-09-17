@@ -11,10 +11,9 @@ function App() {
     <Router>
       <Nav />
       <Switch>
-        <Route path="/" exact component={Inicio} />
-        <Route path="/galeria" exact component={Galeria} />
+        <Route path="/" exact={true} component={Inicio} />
+        <Route path="/galeria" component={Galeria} />
       </Switch>
-      <Inicio />
     </Router>
   );
 }
